@@ -20,6 +20,5 @@
         android:layout_centerHorizontal="true"
         android:layout_height="wrap_content"
         segmentTab:textValue="好友#同城#全球"
-        segmentTab:textSize="10sp"
-/>
+        segmentTab:textSize="10sp"/>
 </RelativeLayout>
